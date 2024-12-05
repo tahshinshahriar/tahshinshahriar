@@ -1,8 +1,11 @@
-Hi, I'm Tahshin 👋 🖥️
-Developer | Computer Science Student @TMU
-Welcome to my GitHub! I'm a passionate Full-Stack Developer with a knack for creating robust and scalable applications. Whether it's designing elegant front-end interfaces or crafting efficient back-end systems, I thrive on bringing ideas to life with code.
+# Hi, I'm Tahshin Shahriar 👋💻
+**Developer | Computer Science @ TMU**
 
-Beyond the world of web development, I’m constantly exploring the realms of data science, machine learning, and cloud computing—because learning never stops! 🚀
+Welcome to my GitHub! I'm a passionate Software Developer with a knack for creating robust and scalable applications. Whether it's designing elegant front-end interfaces or crafting efficient back-end systems, I thrive on bringing ideas to life with code.
+
+Beyond the world of software development, I’m constantly exploring the realms of data science, machine learning, and cloud computing—because learning never stops! 🚀
+
+---
 
 🔍 What I Do
 💻 Build Applications: From front-end designs to back-end logic, I love building full-stack applications.
@@ -44,9 +47,11 @@ Beyond the world of web development, I’m constantly exploring the realms of da
 
 ---
 
-📫 How to Reach Me:
-Email: tahshinshahriar@gmail.com
-LinkedIn: Tahshin Shahriar
+### 📫 How to Reach Me:
+- **Email:** [tahshin.shahriar@torontomu.ca](mailto:tahshin.shahriar@torontomu.ca)
+- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/tahshin-shahriar/)
+- **Portfolio:** [YourPortfolioWebsite](https://tahshinshahriar.github.io)
+
 ---
 
 ### Fun Fact 🐱‍👤
