@@ -14,15 +14,6 @@ Beyond the world of software development, I’m constantly exploring the realms 
 
 ---
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahshinshahriar&layout=compact&theme=radical)
-
----
-
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahshinshahriar&show_icons=true&theme=radical)
-
----
 
 ### 🛠️ Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -51,8 +42,8 @@ Beyond the world of software development, I’m constantly exploring the realms 
 
 ### 📫 How to Reach Me:
 - **Email:** [tahshin.shahriar@torontomu.ca](mailto:tahshin.shahriar@torontomu.ca)
-- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/tahshin-shahriar/)
-- **Portfolio:** [YourPortfolioWebsite](https://tahshinshahriar.github.io)
+- **LinkedIn:** [Tahshin Shahriar](https://www.linkedin.com/in/tahshin-shahriar/)
+- **Portfolio:** [Tahshin Shahriar](https://tahshinshahriar.github.io)
 
 ---
 
