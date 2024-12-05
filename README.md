@@ -7,10 +7,12 @@ Beyond the world of software development, I’m constantly exploring the realms 
 
 ---
 
-🔍 What I Do
+## 🔍 What I Do
 💻 Build Applications: From front-end designs to back-end logic, I love building full-stack applications.
 📊 Data Enthusiast: I enjoy diving deep into data, uncovering insights, and creating visualizations.
 ☁️ Cloud Enthusiast: Skilled in deploying and managing projects in AWS and cloud environments.
+
+---
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahshinshahriar&layout=compact&theme=radical)
