@@ -3,7 +3,7 @@
 
 Welcome to my GitHub! I'm a passionate Software Developer with a knack for creating robust and scalable applications. Whether it's designing elegant front-end interfaces or crafting efficient back-end systems, I thrive on bringing ideas to life with code.
 
-Beyond the world of software development, I’m constantly exploring the realms of data science, machine learning, and cloud computing—because learning never stops! 🚀
+Beyond the world of software development, I’m constantly exploring the realms of data science, machine learning, and cloud computing because learning never stops! 🚀
 
 ---
 
